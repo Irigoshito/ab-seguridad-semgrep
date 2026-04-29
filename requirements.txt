@@ -1,0 +1,2 @@
+# VULNERABILIDAD SCA: Versión antigua con CVEs conocidos (Trivy lo detectará)
+Flask==0.12.2
